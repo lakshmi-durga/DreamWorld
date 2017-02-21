@@ -1,0 +1,72 @@
+.centerdiv {
+      width : 75%;
+      height : 5500px;
+       margin : 0 auto;
+      background-color : #ffffff;
+     }
+	 
+h1 {
+   color : #993333;
+   font-size : 40;
+   font-family:Comic Sans MS;
+}
+
+
+#heading {
+    font-size  : 36;
+    color : #730099;
+}
+
+#content {
+   font-size  : 24;
+   color : black;
+}
+
+
+#img1 {
+     width  : 350px;
+     height : 350px;
+}
+
+a {
+
+    text-decoration : none;
+
+    color : blue;
+
+}
+
+a : visited {
+
+    color : black;
+
+}
+
+#bkimg {
+  background-image: url(http://www.vectorfree.com/media/vectors/colorful-shapes-background.jpg); 
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#bkimg1 {
+    background-image : url(http://drogmentes.info/wp-content/uploads/2014/07/background-main1.jpg); 
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#left {
+   position : relative;
+   float : left;
+}
+
+#right {
+   position : relative;
+   float  : right;
+}
